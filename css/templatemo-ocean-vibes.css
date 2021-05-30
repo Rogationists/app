@@ -42,7 +42,8 @@ button.tm-btn {
     background-color: #49b4e9;
 }
 
-h1 { font-size: 3rem; }
+h1{text-align: center;}
+{ font-size: 3rem; }
 em { display: block; }
 div { box-sizing: border-box;}
 .tm-mt-35 { margin-top: 35px; }
